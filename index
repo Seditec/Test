@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="css">
+		<title>Test</title>
+		<video poster=".\assets\background.jpg" id="bgvid" playsinline autoplay muted loop>
+			<source src=".\assets\sr.mp4" type="video/mp4">
+		</video>
+	</head>
+	<body>
+		<div id="container" class="container" style="display: block;">
+			<table>
+				<br>
+				<a href="https://4chan.org/g/">Technology</a>
+				<br>
+				<a href="https://4chan.org/b/">Random</a>
+				<br>
+				<a href="https://4chan.org/k/">Weapons</a>
+				<br>
+				<a href="https://4chan.org/vg/">Video Games Genral</a>
+				<br>
+				<a href="https://4chan.org/v/">Video Games</a>
+				<br>
+				<a href="https://4chan.org/co/">Comics</a>
+				<br>
+				<a href="https://4chan.org/a/">Anime</a>
+				<br>
+				<a href="https://animeseason.com">Anime Season</a>
+				<br>
+				<a href="https://gogoanime.io">Gogo Anime</a>
+				<br>
+				<a href="https://kissanime.ru">Kiss Anime</a>
+				</br>
+			</table>
+		</div>
+	</body>
+</html>
+<code>
+</code>
